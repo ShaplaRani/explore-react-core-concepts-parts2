@@ -25,6 +25,7 @@ function App() {
       <Counter></Counter>
       <button onClick={handleClick}>click</button>
       <button onClick={() => handleClick2(4)}>click 2</button>
+      <button>click3</button>
       
        
            
